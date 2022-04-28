@@ -1,0 +1,15 @@
+#MainMenu {
+    visibility: hidden;
+}
+
+h1, h3 {
+    text-align: center;
+}
+
+.image_sidebar {
+        width: 100%;
+    }
+
+footer {
+    visibility: hidden;
+}

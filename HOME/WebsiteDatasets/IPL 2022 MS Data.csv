@@ -1,0 +1,75 @@
+ID,Season,Match Number,Day,Date,Venue,Team1,Team2,Time
+2022MS001,2022,1,Saturday,26-Mar-22,Wankhede Stadium,CSK,KKR,7:30 pm
+2022MS002,2022,2,Sunday,27-Mar-22,Brabourne – CCI,DC,MI,3:30 pm
+2022MS003,2022,3,Sunday,28-Mar-22,DY Patil Stadium,PBKS,RCB,7:30 pm
+2022MS004,2022,4,Monday,28-Mar-22,Wankhede Stadium,GT,LSG,7:30 pm
+2022MS005,2022,5,Tuesday,29-Mar-22,"MCA Stadium, Pune",SRH,RR,7:30 pm
+2022MS006,2022,6,Wednesday,30-Mar-22,DY Patil Stadium,RCB,KKR,7:30 pm
+2022MS007,2022,7,Thursday,31-Mar-22,Brabourne – CCI,LSG,CSK,7:30 pm
+2022MS008,2022,8,Friday,01-Apr-22,Wankhede Stadium,KKR,PBKS,7:30 pm
+2022MS009,2022,9,Saturday,02-Apr-22,DY Patil Stadium,MI,RR,3:30 pm
+2022MS010,2022,10,Saturday,02-Apr-22,"MCA Stadium, Pune",GT,DC,7:30 pm
+2022MS011,2022,11,Sunday,03-Apr-22,Brabourne – CCI,CSK,PBKS,7:30 pm
+2022MS012,2022,12,Monday,04-Apr-22,DY Patil Stadium,SRH,LSG,7:30 pm
+2022MS013,2022,13,Tuesday,05-Apr-22,Wankhede Stadium,RR,RCB,7:30 pm
+2022MS014,2022,14,Wednesday,06-Apr-22,"MCA Stadium, Pune",KKR,MI,7:30 pm
+2022MS015,2022,15,Thursday,07-Apr-22,DY Patil Stadium,LSG,DC,7:30 pm
+2022MS016,2022,16,Friday,08-Apr-22,Brabourne – CCI,PBKS,GT,7:30 pm
+2022MS017,2022,17,Saturday,09-Apr-22,DY Patil Stadium,CSK,SRH,3:30 pm
+2022MS018,2022,18,Saturday,09-Apr-22,"MCA Stadium, Pune",RCB,MI,7:30 pm
+2022MS019,2022,19,Sunday,10-Apr-22,Brabourne – CCI,KKR,DC,3:30 pm
+2022MS020,2022,20,Sunday,10-Apr-22,Wankhede Stadium,RR,LSG,7:30 pm
+2022MS021,2022,21,Monday,11-Apr-22,DY Patil Stadium,SRH,GT,7:30 pm
+2022MS022,2022,22,Tuesday,12-Apr-22,DY Patil Stadium,CSK,RCB,7:30 pm
+2022MS023,2022,23,Wednesday,13-Apr-22,"MCA Stadium, Pune",MI,PBKS,7:30 pm
+2022MS024,2022,24,Thursday,14-Apr-22,DY Patil Stadium,RR,GT,7:30 pm
+2022MS025,2022,25,Friday,15-Apr-22,Brabourne – CCI,SRH,KKR,7:30 pm
+2022MS026,2022,26,Saturday,16-Apr-22,Brabourne – CCI,MI,LSG,3:30 pm
+2022MS027,2022,27,Saturday,16-Apr-22,Wankhede Stadium,DC,RCB,7:30 pm
+2022MS028,2022,28,Sunday,17-Apr-22,Brabourne – CCI,PBKS,SRH,3:30 pm
+2022MS029,2022,29,Sunday,17-Apr-22,"MCA Stadium, Pune",GT,CSK,7:30 pm
+2022MS030,2022,30,Monday,18-Apr-22,Brabourne – CCI,RR,KKR,7:30 pm
+2022MS031,2022,31,Tuesday,19-Apr-22,DY Patil Stadium,LSG,RCB,7:30 pm
+2022MS032,2022,32,Wednesday,20-Apr-22,"MCA Stadium, Pune",DC,PBKS,7:30 pm
+2022MS033,2022,33,Thursday,21-Apr-22,DY Patil Stadium,MI,CSK,7:30 pm
+2022MS034,2022,34,Friday,22-Apr-22,"MCA Stadium, Pune",DC,RR,7:30 pm
+2022MS035,2022,35,Saturday,23-Apr-22,DY Patil Stadium,KKR,GT,3:30 pm
+2022MS036,2022,36,Saturday,23-Apr-22,Brabourne – CCI,RCB,SRH,7:30 pm
+2022MS037,2022,37,Sunday,24-Apr-22,Wankhede Stadium,LSG,MI,7:30 pm
+2022MS038,2022,38,Monday,25-Apr-22,Wankhede Stadium,PBKS,CSK,7:30 pm
+2022MS039,2022,39,Tuesday,26-Apr-22,"MCA Stadium, Pune",RCB,RR,7:30 pm
+2022MS040,2022,40,Wednesday,27-Apr-22,Wankhede Stadium,GT,SRH,7:30 pm
+2022MS041,2022,41,Thursday,28-Apr-22,Wankhede Stadium,DC,KKR,7:30 pm
+2022MS042,2022,42,Friday,29-Apr-22,"MCA Stadium, Pune",PBKS,LSG,7:30 pm
+2022MS043,2022,43,Saturday,30-Apr-22,Brabourne – CCI,GT,RCB,3:30 pm
+2022MS044,2022,44,Saturday,30-Apr-22,DY Patil Stadium,RR,MI,7:30 pm
+2022MS045,2022,45,Sunday,01-May-22,Wankhede Stadium,DC,LSG,3:30 pm
+2022MS046,2022,46,Sunday,01-May-22,"MCA Stadium, Pune",SRH,CSK,7:30 pm
+2022MS047,2022,47,Monday,02-May-22,Wankhede Stadium,KKR,RR,7:30 pm
+2022MS048,2022,48,Tuesday,03-May-22,DY Patil Stadium,GT,PBKS,7:30 pm
+2022MS049,2022,49,Wednesday,04-May-22,"MCA Stadium, Pune",RCB,CSK,7:30 pm
+2022MS050,2022,50,Thursday,05-May-22,Brabourne – CCI,PBKS,SRH,7:30 pm
+2022MS051,2022,51,Friday,06-May-22,Wankhede Stadium,DC,MI,7:30 pm
+2022MS052,2022,52,Saturday,07-May-22,"MCA Stadium, Pune",GT,RR,3:30 pm
+2022MS053,2022,53,Saturday,07-May-22,Wankhede Stadium,PBKS,KKR,3:30 pm
+2022MS054,2022,54,Sunday,08-May-22,DY Patil Stadium,LSG,RCB,3:30 pm
+2022MS055,2022,55,Sunday,08-May-22,DY Patil Stadium,SRH,DC,3:30 pm
+2022MS056,2022,56,Monday,09-May-22,DY Patil Stadium,CSK,KKR,7:30 pm
+2022MS057,2022,57,Tuesday,10-May-22,"MCA Stadium, Pune",MI,GT,7:30 pm
+2022MS058,2022,58,Wednesday,11-May-22,DY Patil Stadium,LSG,DC,7:30 pm
+2022MS059,2022,59,Thursday,12-May-22,Wankhede Stadium,CSK,MI,7:30 pm
+2022MS060,2022,60,Friday,13-May-22,Brabourne – CCI,RCB,PBKS,7:30 pm
+2022MS061,2022,61,Saturday,14-May-22,"MCA Stadium, Pune",KKR,SRH,7:30 pm
+2022MS062,2022,62,Sunday,15-May-22,Wankhede Stadium,CSK,GT,3:30 pm
+2022MS063,2022,63,Sunday,15-May-22,Brabourne – CCI,LSG,RR,7:30 pm
+2022MS064,2022,64,Monday,16-May-22,DY Patil Stadium,PBKS,DC,7:30 pm
+2022MS065,2022,65,Tuesday,17-May-22,Wankhede Stadium,MI,SRH,7:30 pm
+2022MS066,2022,66,Wednesday,18-May-22,DY Patil Stadium,KKR,LSG,7:30 pm
+2022MS067,2022,67,Thursday,19-May-22,Wankhede Stadium,RCB,GT,7:30 pm
+2022MS068,2022,68,Friday,20-May-22,Brabourne – CCI,RR,CSK,7:30 pm
+2022MS069,2022,69,Saturday,21-May-22,Wankhede Stadium,MI,DC,7:30 pm
+2022MS070,2022,70,Sunday,22-May-22,Wankhede Stadium,SRH,PBKS,7:30 pm
+2022MS071,2022,71,TBD,TBD,Ahmedabad,QUALIFIER1,QUALIFIER1,TBD
+2022MS072,2022,72,TBD,TBD,Ahmedabad,ELIMINATOR,ELIMINATOR,TBD
+2022MS073,2022,73,TBD,TBD,Ahmedabad,QUALIFIER2,QUALIFIER2,TBD
+2022MS074,2022,74,Sunday,29-May-22,Ahmedabad,FINAL,FINAL,7.30 pm

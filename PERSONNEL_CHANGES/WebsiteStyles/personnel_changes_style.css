@@ -1,0 +1,15 @@
+#MainMenu {
+    visibility: hidden;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+footer {
+    visibility: hidden;
+}

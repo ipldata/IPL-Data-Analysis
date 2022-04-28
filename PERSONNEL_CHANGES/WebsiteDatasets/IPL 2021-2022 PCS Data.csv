@@ -1,0 +1,19 @@
+ID,Season,Team,Retained Players,Retained Overseas Players,Released Players,Released Overseas Players,Transferred Players,Transferred Overseas Players,Players Before Auction,Overseas Players Before Auction,Slots Avaliable Before Auction,Overseas Slots Avaliable Before Auction,Fund Spent before Auction,Fund Avaliable For Auction,Sold Players During Auction,Fund Spent During Auction,Fund Remaining,Total Players After Auction,Total Overseas Players After Auction
+2021PCS001,2021,MI,18,4,7,5,0,0,18,4,7,4,6965,1535,7,1170,365,25,8
+2021PCS002,2021,KKR,17,6,6,3,0,0,17,6,8,2,7425,1075,8,755,320,25,8
+2021PCS003,2021,CSK,18,7,6,1,1,0,19,7,6,1,6210,2290,6,1735,255,25,8
+2021PCS004,2021,RCB,12,4,10,5,2,1,14,5,11,4,4910,3590,8,3505,35,25,8
+2021PCS005,2021,PBKS,16,3,9,5,0,0,16,3,9,5,3180,5320,9,3440,1880,25,8
+2021PCS006,2021,DC,19,6,6,4,0,0,19,6,6,2,7209.82,1290.18,8,1125,215,25,8
+2021PCS007,2021,RR,17,5,8,3,0,0,17,5,8,3,5015,3485,8,2420,1365,25,8
+2021PCS008,2021,SRH,22,7,5,2,0,0,22,7,3,1,7425,1075,3,380,695,25,8
+2022PCS001,2022,CSK,4,1,21,7,,,4,1,21,7,4200,4800,,,,,
+2022PCS002,2022,DC,4,1,21,7,,,4,1,21,7,4250,4750,,,,,
+2022PCS003,2022,GT,3,1,-,-,,,3,1,22,7,3800,5200,,,,,
+2022PCS004,2022,KKR,4,2,21,6,,,4,2,21,6,4200,4800,,,,,
+2022PCS005,2022,LSG,3,1,-,-,,,3,1,22,7,3100,5900,,,,,
+2022PCS006,2022,MI,4,1,21,7,,,4,1,21,7,4200,4800,,,,,
+2022PCS007,2022,PBKS,2,0,23,8,,,2,0,23,8,1800,7200,,,,,
+2022PCS008,2022,RR,3,1,22,7,,,3,1,22,7,2800,6200,,,,,
+2022PCS009,2022,RCB,3,1,22,7,,,3,1,22,7,3300,5700,,,,,
+2022PCS010,2022,SRH,3,1,22,7,,,3,1,22,7,2200,6800,,,,,
